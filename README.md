@@ -65,6 +65,10 @@ bye
 7. extend the bot to that the user can add new kinds of responses through the chat interaction
 8. extend the bot so that the set of responses is saved to a file and reloaded when the bot restarts
 
+Understanding Regex:
+
+* [Regex One Tutorial](http://regexone.com/lesson/0)
+
 Resources:
 
 * [Ruby Regular Expressions Tutorial](http://rubylearning.com/satishtalim/ruby_regular_expressions.html)
