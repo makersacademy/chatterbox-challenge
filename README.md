@@ -7,7 +7,7 @@ Instructions
 * Test time: up to you
 * Feel free to use google, your notes, books, etc but work on your own
 * You'll almost certainly need to google some things. This is deliberate.
-* In particular you'll want to read up on "Regular Expressions"
+* In particular you'll want to read up on "Regular Expressions" and go through this [tutorial](http://regexone.com/lesson/0)
 * ***Please ensure that all your code is committed to a repo named 'chatterbox'***
 
 
